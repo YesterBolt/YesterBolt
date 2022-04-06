@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Antônio Angelo Passini
+- 👀 I’m interested in Java, C, C#, C++, Python, Haskel and Assemble
+- 🌱 I’m currently learning Java abording rest call and micro services
+- 📫 How to reach me: juniorpassini@hotmail.com.br or antonio.passini@bradesco.com.br
